@@ -1,0 +1,19 @@
+{
+  "name": "login-with-google-and-facebook",
+  "version": "1.0.0",
+  "description": "Projeto de exemplo com login do Facebook e Google",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucassdr/react-login-facebook-and-google.git"
+  },
+  "author": "Lucas Sodré",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucassdr/react-login-facebook-and-google/issues"
+  },
+  "homepage": "https://github.com/lucassdr/react-login-facebook-and-google#readme"
+}
