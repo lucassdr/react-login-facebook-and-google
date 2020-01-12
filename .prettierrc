@@ -1,0 +1,8 @@
+{
+    "jsxSingleQuote": true,
+    "singleQuote": true,
+    "tabWidth": 2,
+    "useTabs": true,
+    "bracketSpacing": true,
+    "printWidth": 80
+}
